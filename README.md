@@ -12,3 +12,6 @@ Participants have to develop a computer vision model with the aim to analyze var
 
 # Image
 ![image](<https://github.com/18harsh/RecogniSign-Techfest-Competition/blob/main/2021-01-30.png>)
+
+#Certificate
+![image](<https://github.com/18harsh/RecogniSign-Techfest-Competition/blob/main/techfest.jpeg>)
